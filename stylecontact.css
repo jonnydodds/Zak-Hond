@@ -1,0 +1,58 @@
+body{
+	background-color: white
+}
+
+.topnav {
+    background-color: navy;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: lightcyan;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: lightcyan;
+    color: navy;
+}
+
+.active {
+    background-color: crimson;
+    color: navy;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+h1 {
+	margin-top: 50px;
+	color: navy;
+	font-size: 25px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+h2 {
+color:navy;
+font-size: 20px;
+font-family: Helvetica;
+text-align: center;
+}
+
+#logo {
+	width: 15%;
+}
+#logocontainer {
+	text-align: center;
+}
+
+}
